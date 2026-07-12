@@ -225,7 +225,7 @@ I believe great software is built through:
 https://www.linkedin.com/in/dilip-mummadi
 
 📧 Email:
-your-email@gmail.com
+dileepdilli558@gmail.com
 
 </p>
 
