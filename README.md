@@ -1,101 +1,161 @@
 <h1 align="center">Hi 👋, I'm Dilip Mummadi</h1>
 
 <h3 align="center">
-Full Stack .NET Developer • AI Enthusiast • Building Enterprise Software
+Enterprise Full Stack Engineer • ASP.NET Core • React • Azure • AI
 </h3>
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Associate Software Engineer at **A.P. Moller – Maersk**
-- 🚀 4.7+ years building enterprise applications
-- 💻 Full Stack Developer using **ASP.NET Core + React**
-- 🤖 Currently exploring **AI, FastAPI, RAG, LLMs**
-- ☁️ Passionate about Azure Cloud & Microservices
-- 📍 Bengaluru, India
+<p align="center">
+Building scalable enterprise software today while preparing for the next generation of AI-powered applications.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
+
+I'm a Full Stack Software Engineer with **4.7+ years of experience** designing and building enterprise applications across **Logistics, Risk Management, Manufacturing, and E-Commerce**.
+
+Currently I'm working at **A.P. Moller – Maersk**, where I contribute to enterprise-scale platforms used by global teams.
+
+My interests are gradually expanding from enterprise software into **Artificial Intelligence**, **LLMs**, **RAG**, **FastAPI**, and **Cloud Architecture**.
+
+I enjoy solving complex engineering problems, writing clean and maintainable code, and continuously learning modern technologies.
+
+---
+
+# 🚀 What I'm Working On
+
+- 🤖 AI Applications
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & Python
+- ☁ Azure Cloud
+- 🏗 Clean Architecture
+- 🧩 Microservices
+- 📈 Enterprise Software Design
+
+---
+
+# 🛠 Tech Stack
 
 ### Backend
 
-ASP.NET Core
-C#
-REST APIs
-Entity Framework Core
-Python
-FastAPI
+- ASP.NET Core
+- C#
+- Entity Framework Core
+- REST APIs
+- Python
+- FastAPI
 
 ### Frontend
 
-React
-TypeScript
-JavaScript
-HTML
-CSS
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
 
 ### Databases
 
-PostgreSQL
-SQL Server
-Oracle
+- PostgreSQL
+- SQL Server
+- Oracle
 
 ### Cloud & DevOps
 
-Azure
-Docker
-GitHub Actions
-Git
-CI/CD
+- Microsoft Azure
+- Docker
+- GitHub Actions
+- Git
+- CI/CD
 
-### Architecture
+### Software Architecture
 
-Microservices
-Clean Architecture
-SOLID
-Design Patterns
-Event Driven Architecture
-
----
-
-## 🏆 Certifications
-
-✅ Azure AI Engineer Associate
-
-✅ Azure AI Fundamentals
-
-✅ Azure Data Fundamentals
+- Clean Architecture
+- Microservices
+- SOLID Principles
+- Design Patterns
+- Event-Driven Architecture
 
 ---
 
-## 🚀 Currently Working On
+# 🏆 Professional Experience
 
-- AI Applications
-- Retrieval Augmented Generation (RAG)
-- FastAPI
-- LLM Integrations
+### 🚢 A.P. Moller – Maersk
+
+Enterprise Risk Management Platform
+
+- ASP.NET Core
+- React
+- PostgreSQL
+- Azure
 - Enterprise Architecture
 
 ---
 
-## 📌 Featured Projects
+### 💻 Accenture (Dell Technologies)
 
-🔹 Enterprise Risk Management Platform
+Enterprise E-Commerce Platform
 
-🔹 AI Resume Analyzer
-
-🔹 RAG Chatbot
-
-🔹 Clean Architecture Boilerplate
-
-🔹 FastAPI Authentication
+- ASP.NET Core
+- React
+- SQL Server
+- REST APIs
 
 ---
 
-## 📫 Connect With Me
+### 🏭 Cognizant
 
-LinkedIn
+Enterprise Manufacturing Solutions
 
-Email
+- ASP.NET
+- SQL Server
+- Enterprise Applications
+
+---
+
+# 📜 Microsoft Certifications
+
+🏅 Azure AI Engineer Associate
+
+🏅 Azure AI Fundamentals (AI-900)
+
+🏅 Azure Data Fundamentals (DP-900)
+
+🎯 Next Goal: Azure Developer Associate (AZ-204)
+
+---
+
+# 🚀 Current Focus
+
+In 2026 my primary goal is to evolve from an Enterprise Full Stack Engineer into an AI-first Software Engineer by building production-ready AI systems that combine enterprise architecture with Large Language Models.
+
+---
+
+# 📌 Upcoming Projects
+
+- Phoenix — Multi-Agent AI Platform
+- Enterprise Clean Architecture Template
+- RAG Knowledge Assistant
+- FastAPI Authentication Starter
+- AI Resume Analyzer
+
+---
+
+# 💡 Engineering Philosophy
+
+I believe great software is built through:
+
+- Simplicity over complexity
+- Clean code over clever code
+- Scalability over shortcuts
+- Continuous learning over comfort
+
+> **Code. Innovate. Impact.**
+
+---
+
+# 📫 Let's Connect
+
+- 💼 LinkedIn
+- 📧 Email
+
+I'm always happy to connect with software engineers, architects, and people passionate about enterprise software and AI.
