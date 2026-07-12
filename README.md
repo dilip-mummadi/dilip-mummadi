@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilip_Mummadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilip-mummadi)
 [![GitHub](https://img.shields.io/badge/GitHub-dilip--mummadi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilip-mummadi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileepdilli558@gmail.com)
 
 ---
 
