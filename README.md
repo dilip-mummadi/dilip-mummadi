@@ -33,73 +33,33 @@ Alongside enterprise development, I'm actively expanding my expertise into **Art
 - 📚 System Design & Software Architecture
 
 ---
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,py,fastapi" />
-</p>
-
-- ASP.NET Core
-- C#
-- Entity Framework Core
-- REST APIs
-- Python
-- FastAPI
-
----
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
+### Database
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Databases
+### Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- PostgreSQL
-- SQL Server
-- Oracle
+### AI
 
----
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
-</p>
-
-- Microsoft Azure
-- Docker
-- Git
-- GitHub Actions
-- CI/CD
-
----
-
-### Software Architecture
-
-- Clean Architecture
-- Microservices
-- SOLID Principles
-- Design Patterns
-- Event-Driven Architecture
-- Domain-Driven Design (DDD)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
 ## 🏢 Professional Experience
