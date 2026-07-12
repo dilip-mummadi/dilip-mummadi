@@ -1,42 +1,46 @@
 <h1 align="center">Hi 👋, I'm Dilip Mummadi</h1>
 
 <h3 align="center">
-Enterprise Full Stack Engineer • ASP.NET Core • React • Azure • AI
+Full Stack .NET Developer • ASP.NET Core • React • Azure • Building Enterprise Software
 </h3>
 
 <p align="center">
-Building scalable enterprise software today while preparing for the next generation of AI-powered applications.
+Building scalable enterprise applications today while exploring AI-powered software for tomorrow.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with **4.7+ years of experience** designing and building enterprise applications across **Logistics, Risk Management, Manufacturing, and E-Commerce**.
+I'm a **Full Stack .NET Developer** with **4.7+ years of experience** designing, developing, and delivering enterprise-grade applications using **ASP.NET Core, C#, React, TypeScript, Azure, and PostgreSQL**.
 
-Currently I'm working at **A.P. Moller – Maersk**, where I contribute to enterprise-scale platforms used by global teams.
+Currently working as an **Associate Software Engineer at A.P. Moller – Maersk**, I contribute to enterprise platforms supporting global operations across Risk Management, Incident Management, Audits, Actions, and Administration.
 
-My interests are gradually expanding from enterprise software into **Artificial Intelligence**, **LLMs**, **RAG**, **FastAPI**, and **Cloud Architecture**.
+Throughout my career, I've worked across **Logistics, E-Commerce, Manufacturing, and Risk Management** domains, building scalable backend systems, intuitive frontends, and cloud-ready solutions.
 
-I enjoy solving complex engineering problems, writing clean and maintainable code, and continuously learning modern technologies.
+Alongside enterprise development, I'm actively expanding my expertise into **Artificial Intelligence**, **Python**, **FastAPI**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** to build the next generation of intelligent applications.
 
 ---
 
-# 🚀 What I'm Working On
+## 🚀 What I'm Currently Working On
 
-- 🤖 AI Applications
+- 🏢 Enterprise Full Stack Development (.NET + React)
+- 🤖 AI Applications & LLM Integrations
 - 🧠 Retrieval-Augmented Generation (RAG)
 - ⚡ FastAPI & Python
-- ☁ Azure Cloud
-- 🏗 Clean Architecture
-- 🧩 Microservices
-- 📈 Enterprise Software Design
+- ☁️ Microsoft Azure
+- 🏗️ Clean Architecture & Microservices
+- 📚 System Design & Software Architecture
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,py,fastapi" />
+</p>
 
 - ASP.NET Core
 - C#
@@ -45,27 +49,47 @@ I enjoy solving complex engineering problems, writing clean and maintainable cod
 - Python
 - FastAPI
 
+---
+
 ### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
 
 - React
 - TypeScript
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
+
+---
 
 ### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
 - PostgreSQL
 - SQL Server
 - Oracle
 
+---
+
 ### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
+</p>
 
 - Microsoft Azure
 - Docker
-- GitHub Actions
 - Git
+- GitHub Actions
 - CI/CD
+
+---
 
 ### Software Architecture
 
@@ -74,10 +98,11 @@ I enjoy solving complex engineering problems, writing clean and maintainable cod
 - SOLID Principles
 - Design Patterns
 - Event-Driven Architecture
+- Domain-Driven Design (DDD)
 
 ---
 
-# 🏆 Professional Experience
+## 🏢 Professional Experience
 
 ### 🚢 A.P. Moller – Maersk
 
@@ -88,6 +113,7 @@ Enterprise Risk Management Platform
 - PostgreSQL
 - Azure
 - Enterprise Architecture
+- Risk Management
 
 ---
 
@@ -112,7 +138,7 @@ Enterprise Manufacturing Solutions
 
 ---
 
-# 📜 Microsoft Certifications
+## 🏆 Microsoft Certifications
 
 🏅 Azure AI Engineer Associate
 
@@ -120,42 +146,93 @@ Enterprise Manufacturing Solutions
 
 🏅 Azure Data Fundamentals (DP-900)
 
-🎯 Next Goal: Azure Developer Associate (AZ-204)
+🎯 Next Goal:
+Azure Developer Associate (AZ-204)
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Featured Projects
 
-In 2026 my primary goal is to evolve from an Enterprise Full Stack Engineer into an AI-first Software Engineer by building production-ready AI systems that combine enterprise architecture with Large Language Models.
+🔹 Phoenix — Multi-Agent AI Platform *(In Progress)*
+
+🔹 Enterprise Risk Management Platform
+
+🔹 AI Resume Analyzer
+
+🔹 RAG Knowledge Assistant
+
+🔹 Clean Architecture Boilerplate
+
+🔹 FastAPI Authentication Starter
 
 ---
 
-# 📌 Upcoming Projects
+## 🎯 2026 Goals
 
-- Phoenix — Multi-Agent AI Platform
-- Enterprise Clean Architecture Template
-- RAG Knowledge Assistant
-- FastAPI Authentication Starter
-- AI Resume Analyzer
+✔ Build production-ready AI applications
+
+✔ Master FastAPI & Python
+
+✔ Design scalable cloud-native architectures
+
+✔ Contribute to open-source projects
+
+✔ Grow into a Software Architect
 
 ---
 
-# 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
 I believe great software is built through:
 
-- Simplicity over complexity
-- Clean code over clever code
-- Scalability over shortcuts
-- Continuous learning over comfort
+- Clean Architecture
+- Simplicity over Complexity
+- Scalability over Shortcuts
+- Collaboration over Individual Brilliance
+- Continuous Learning
 
-> **Code. Innovate. Impact.**
+> **"Code. Innovate. Impact."**
 
 ---
 
-# 📫 Let's Connect
+## 📊 GitHub Statistics
 
-- 💼 LinkedIn
-- 📧 Email
+<p align="center">
 
-I'm always happy to connect with software engineers, architects, and people passionate about enterprise software and AI.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dilip-mummadi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilip-mummadi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-mummadi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+
+💼 LinkedIn:
+https://www.linkedin.com/in/dilip-mummadi
+
+📧 Email:
+your-email@gmail.com
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
