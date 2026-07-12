@@ -111,6 +111,8 @@ Enterprise Risk Management Platform
 
 ✔ Global Enterprise Applications
 
+✔ GenAI, LLM's, Agents
+
 ---
 
 ## 💻 Accenture
@@ -143,11 +145,13 @@ Enterprise Manufacturing Solutions
 
 # 🏆 Microsoft Certifications
 
-🥇 Azure AI Engineer Associate
+🥇 Azure AI Engineer Associate (AI-102)
 
 🥇 Azure AI Fundamentals (AI-900)
 
 🥇 Azure Data Fundamentals (DP-900)
+
+🥇 Azure Data Fundamentals (AZ-900)
 
 🎯 Next Target
 
@@ -243,7 +247,7 @@ https://github.com/dilip-mummadi
 
 📧 Email
 
-your-email@gmail.com
+dileepdilli558@gmial.com
 
 ---
 
